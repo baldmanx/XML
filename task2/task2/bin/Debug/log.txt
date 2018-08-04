@@ -1,0 +1,4 @@
+﻿Document file:///C:/Users/dehnk/OneDrive/Рабочий стол/task2/task2/task2/bin/Debug/XMLFile.xml is loaded | 04.08.2018 13:13:14
+The document was successfully validated by XSD | 04.08.2018 13:13:14
+The document was successfully transformed by XSLT | 04.08.2018 13:13:14
+Transformed document was successfully validated by XSD | 04.08.2018 13:13:14

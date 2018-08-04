@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLTFile.xslt" ?>
+<CarService xmlns="http://tempuri.org/XMLSchema.xsd">
+  
+  <CarServiceOrder>    
+    <Customer>
+      <Name>Nikolai</Name>
+      <Phone>5556663</Phone>
+      <Car>BMW</Car>    
+    </Customer>
+  
+    <Worker>
+      <Name>Ivanov</Name>
+      <Rate>5</Rate>
+    </Worker>
+  
+    <Service>
+      <Name>Trouble codes searching</Name>
+      <Date>2018-07-15</Date>
+      <Price>500</Price>
+    </Service>  
+  </CarServiceOrder>
+
+</CarService>
